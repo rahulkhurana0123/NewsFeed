@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="base_url">https://newsapi.org</string>
+    <string name="news_feed_end_point">/v2/top-headlines</string>
+    <string name="api_key">8b883f17e91545ddace3f0e30ffc66d7</string>
+</resources>

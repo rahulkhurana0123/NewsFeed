@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">DoubtNutNewsFeed</string>
+    <string name="tool_bar_text">News Feed</string>
+    <string name="country">us</string>
+    <string name="category">business</string>
+    <string name="generic_error_message">Something went wrong</string>
+    <string name="generic_error_title">Error</string>
+    <string name="generic_error_try_again">SomeThing went wrong. Please try again</string>
+    <string name="try_again">Try again</string>
+    <string name="cancel">Cancel</string>
+    <string name="invalid_url">Invalid Url. Can\'t perform the action.</string>
+    <string name="news_feed_item_imv_content_desc">news article image</string>
+</resources>
